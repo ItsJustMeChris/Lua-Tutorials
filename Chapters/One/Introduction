@@ -1,0 +1,6 @@
+Lua is a powerful and efficient embeddable scripting language written in C.  
+
+Lua is dynamically typed, meaning there are no variable types explicitly typed. 
+
+Lua has eight basic types; booleans, numbers, strings, functions, userdata, threads, tables, and nil.  
+
